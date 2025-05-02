@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/youtube_clone/static/css/main.d3b2e590.css",
+    "main.js": "/youtube_clone/static/js/main.796eb0d6.js",
+    "static/media/thumbnail4.png": "/youtube_clone/static/media/thumbnail4.e34afa6c5561f3117302.png",
+    "static/media/thumbnail8.png": "/youtube_clone/static/media/thumbnail8.80d857e9c212045f6efb.png",
+    "static/media/thumbnail1.png": "/youtube_clone/static/media/thumbnail1.91aa5ce73fc8255c007b.png",
+    "static/media/thumbnail5.png": "/youtube_clone/static/media/thumbnail5.9a1043ddda8747245faf.png",
+    "static/media/thumbnail3.png": "/youtube_clone/static/media/thumbnail3.f0474d5b6e63a0eec5da.png",
+    "static/media/thumbnail7.png": "/youtube_clone/static/media/thumbnail7.2409c5eef5ea0b8c2130.png",
+    "static/media/thumbnail6.png": "/youtube_clone/static/media/thumbnail6.922e46bb7429a189f630.png",
+    "static/media/thumbnail2.png": "/youtube_clone/static/media/thumbnail2.a7ae1c5718ce05f4c2f4.png",
+    "static/media/cameron.png": "/youtube_clone/static/media/cameron.cedb1ba5832f609542da.png",
+    "static/media/tom.png": "/youtube_clone/static/media/tom.df63bfcb6f1c8f5d7137.png",
+    "static/media/jack.png": "/youtube_clone/static/media/jack.3a2249a07dd80a9c36a4.png",
+    "static/media/megan.png": "/youtube_clone/static/media/megan.d9c678d896bed0b8c031.png",
+    "static/media/simon.png": "/youtube_clone/static/media/simon.a92c2df263101574e364.png",
+    "index.html": "/youtube_clone/index.html",
+    "main.d3b2e590.css.map": "/youtube_clone/static/css/main.d3b2e590.css.map",
+    "main.796eb0d6.js.map": "/youtube_clone/static/js/main.796eb0d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b2e590.css",
+    "static/js/main.796eb0d6.js"
+  ]
+}

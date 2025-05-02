@@ -6,6 +6,9 @@ import Video from './pages/video/Video';
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import './App.css'
+// import { inject } from "@vercel/analytics";
+
+// inject();
 
 
 const App = () => {
